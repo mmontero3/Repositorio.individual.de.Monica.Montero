@@ -1,12 +1,31 @@
-# Repositorio individual de Monica Montero
+# Tarea 01
+# Analisis webstory "Scaling Everest"
+**URL:** [https://www.washingtonpost.com/graphics/world/scaling-everest/#](https://www.washingtonpost.com/graphics/world/scaling-everest/#)
+
+**Medio y autor:** The Washington Port, por Richard Johnson, Bonnie Berkowitz y Lazaro Gamio.
+
 ## Descripción
-La estructura narrativa de Scaling Everest esta muy bien lograda, sobre todo considerando que se trata de un tema cargado de información con muchos datos técnicos y elementos históricos. A pesar de esa densidad, la organización es clara y efectiva: la historia se presenta en bloques pequeños, con párrafos breves y fáciles de leer que evitan la saturación. Esto facilita que cualquier lector, incluso sin conocimientos previos sobre montañismo, pueda avanzar con comodidad. Lo que me parece más innovador es la forma en que el relato imita la experiencia de escalar la montaña: al comenzar a leer, uno se sitúa en la base del Everest, y a medida que se avanza —mediante scroll— se “asciende” simbólicamente por la montaña. Cada sección corresponde a un punto o parada importante de la expedición, descrito como un landmark. Esta decisión que tomaron los autores, crea una experiencia inmersiva, donde el usuario siente que está recorriendo el mismo trayecto que los alpinistas.
+La estructura narrativa de Scaling Everest esta muy bien lograda, sobre todo considerando que se trata de un tema cargado de información con muchos datos técnicos y elementos históricos. A pesar de esa densidad, la organización es clara y efectiva: la historia se presenta en bloques pequeños, con párrafos breves y fáciles de leer que evitan la saturación. Esto facilita que cualquier lector, incluso sin conocimientos previos sobre montañismo, pueda avanzar con comodidad. Lo que me parece más innovador es la forma en que el relato imita la experiencia de escalar la montaña: al comenzar a leer, uno se sitúa en la base del Everest, y a medida que se avanza —mediante scroll— se “asciende” simbólicamente por la montaña.
+
+<img width="899" height="425" alt="NARR GRAFICA 3 INICIO" src="https://github.com/user-attachments/assets/f3f0f279-44fb-4fd7-8403-6516f08c5f33" />
+
+Cada sección corresponde a un punto o parada importante de la expedición, descrito como un landmark. Esta decisión que tomaron los autores, crea una experiencia inmersiva, donde el usuario siente que está recorriendo el mismo trayecto que los alpinistas.
 
 El formato utilizado combina elementos de infografía interactiva y scrollytelling. La acción principal es hacer scroll, lo que garantiza un ritmo continuo, pero en ciertos momentos se requiere hacer clic para escuchar las intervenciones de los tres personajes que son presentados al inicio del reportaje. Estos audios aportan humanidad y cercanía, ya que permiten escuchar en primera persona la voz de quienes han vivido la experiencia. Aunque hay un aspecto técnico mejorable: la calidad de las grabaciones no es la mejor, ya que la mayoría de los audios está saturado el sonido. Además, resultan algo largos, lo que puede afectar la atención del lector/oyente. Una duración más breve —de unos 20 segundos— habría sido más efectiva. A pesar de esto, el haber Incluidos citas escritas debajo de cada audio compensa estas limitaciones, asegurando que la información principal no se pierda. 
 
+<img width="882" height="433" alt="NARR GRAFICA 1 AUDIOS" src="https://github.com/user-attachments/assets/24d247b4-89b7-4a92-81ac-dfcd49f6b88b" />
+
+
 Visualmente, el reportaje mantiene una estética coherente. El diseño es limpio, con una paleta cromática que remite a la montaña y al frío, y un estilo que unifica las imágenes, los gráficos y los textos. A lo largo de la historia encontramos distintas capas de información: datos rápidos que aportan información de alturas, temperaturas, distancias; descripciones sobre flora y fauna, que ayudan a situar el ecosistema del Everest; testimonios personales que transmiten la dimensión humana de la expedición; y referencias a puntos geográficos clave que estructuran el ascenso. Esta división temática aporta claridad, porque permite al lector procesar la información por secciones sin confundirse.
 
-Otro aspecto valioso es cómo el recurso interactivo sitúa constantemente al usuario dentro de la experiencia. En el lado izquierdo de la pantalla aparece un mapa que indica en qué punto exacto de la montaña se encuentra el relato, acompañado de la altitud correspondiente en pies. Este detalle contribuye a la sensación de progreso, como si el lector realmente estuviera escalando paso a paso. La interacción no es invasiva ni compleja: el usuario puede avanzar a su propio ritmo, detenerse en los apartados que le interesen más, o continuar hacia el siguiente bloque de información.
+<img width="883" height="413" alt="image" src="https://github.com/user-attachments/assets/f51daa06-70bf-4b77-b55a-5066822da32d" />
+
+
+Otro aspecto valioso es cómo el recurso interactivo sitúa constantemente al usuario dentro de la experiencia. En el lado izquierdo de la pantalla aparece un mapa que indica en qué punto exacto de la montaña se encuentra el relato, acompañado de la altitud correspondiente en pies. 
+
+<img width="175" height="384" alt="NARR GRAFICA 3 INICIO 2" src="https://github.com/user-attachments/assets/e21af063-c835-4c08-9c92-b255c6a0a30b" />
+
+Este detalle contribuye a la sensación de progreso, como si el lector realmente estuviera escalando paso a paso. La interacción no es invasiva ni compleja: el usuario puede avanzar a su propio ritmo, detenerse en los apartados que le interesen más, o continuar hacia el siguiente bloque de información.
 
 Finalmente, el equilibrio entre texto e imágenes está muy bien logrado. El reportaje no abusa del texto largo. Ofrece textos cortos y precisos acompañados de dibujos que enriquecen la narrativa, ayudando a contextualizar lo que se está leyendo. Esta armonía evita que la lectura se vuelva pesada.
 
